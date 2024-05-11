@@ -1,0 +1,63 @@
+html{
+    margin: 20px;
+    background-color: #d4ebcc;
+}
+
+#heading{
+    text-align: center;
+    font-size: 300%;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    margin: 20px;
+    height: 185px;
+    padding: 20px;
+}
+#wonder1,
+#wonder2,
+#wonder3,
+#wonder4,
+#wonder5,
+#wonder6,
+#wonder7{
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+    margin-right: 20px;
+    position: relative;
+    float: left;
+
+    
+}
+#wonder2,
+#wonder4,
+#wonder6{
+    margin-left: 20px;
+    float: right;
+}
+#name{
+    font-size: x-large;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#about{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+#name:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(227, 22, 22);
+}
+
+
+
+
+
